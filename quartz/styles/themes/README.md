@@ -1,13 +1,14 @@
-# Everforest
+# Primary
 
-- Theme: Everforest
-- Author: MrGlitchByte
+- Theme: Primary
+- Author: Cecilia May
+- Support the author: <a href="https://ko-fi.com/ceciliamay" target="_blank" rel="noopener noreferrer">Ko-fi</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/everforest/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/primary/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/everforest)
+[Open live preview (Publish)](https://publish.saberzero.one/primary)
 
 ## Usage (Quartz)
 
@@ -15,7 +16,7 @@
 
 ```yaml
 env:
-  THEME_NAME: everforest
+  THEME_NAME: primary
 ```
 
 ```yaml
@@ -28,7 +29,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh everforest
+./action.sh primary
 ```
 
 ### Manual install
