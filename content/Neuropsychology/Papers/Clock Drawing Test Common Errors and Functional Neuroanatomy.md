@@ -4,8 +4,6 @@ draft:
 tags:
 data and time:
 ---
-
-
 https://psychiatryonline.org/doi/10.1176/appi.neuropsych.12070180
 
 # CDT Errors
