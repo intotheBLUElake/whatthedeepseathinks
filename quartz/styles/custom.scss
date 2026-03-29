@@ -2,3 +2,8 @@
 @use "./themes";
 
 // put your custom CSS here!
+
+/* Nasconde i tag esclusivamente nell'elenco dei file delle cartelle */
+.section-li .tags {
+  display: none;
+}
