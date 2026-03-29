@@ -1,11 +1,7 @@
 ---
-cssclassescssclasses:
----
----
-title: boh
+title: Home
 draft: false
 tags:
-  - example-tag
 ---
 
 
