@@ -1,5 +1,5 @@
 ---
-title: Clinical Vocaboulary
+title: Clinical Vocabulary
 draft:
 tags:
 data and time:
