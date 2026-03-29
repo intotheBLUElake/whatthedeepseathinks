@@ -41,7 +41,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+  localGraph: {
+    showTags: true, // Mostra i tag nel grafo della singola pagina
+  },
+  globalGraph: {
+    showTags: true, // Mostra i tag nel grafo generale del sito
+  },
+} ),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

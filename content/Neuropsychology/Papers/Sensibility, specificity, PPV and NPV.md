@@ -2,6 +2,8 @@
 title: Sensibility, specificity, PPV and NPV
 draft:
 tags:
+  - "#metodology"
+  - test
 data and time:
 ---
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8156826/

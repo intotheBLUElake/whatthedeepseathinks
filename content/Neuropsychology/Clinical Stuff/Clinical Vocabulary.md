@@ -2,6 +2,7 @@
 title: Clinical Vocabulary
 draft:
 tags:
+  - "#clinical"
 data and time:
 ---
 # A: 

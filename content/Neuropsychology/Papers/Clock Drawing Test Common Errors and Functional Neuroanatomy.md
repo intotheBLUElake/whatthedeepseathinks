@@ -2,6 +2,8 @@
 title: Clock Drawing Test Common Errors and Functional Neuroanatomy
 draft:
 tags:
+  - "#test"
+  - "#paper"
 data and time:
 ---
 https://psychiatryonline.org/doi/10.1176/appi.neuropsych.12070180

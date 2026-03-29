@@ -2,6 +2,8 @@
 title: Clinical Clock (CDT)
 draft: true
 tags:
+  - "#clinical"
+  - "#test"
 data and time:
 ---
 Links: [[Clock Drawing Test Common Errors and Functional Neuroanatomy]]
