@@ -7,7 +7,7 @@ tags:
 data and time:
 ---
 https://psychiatryonline.org/doi/10.1176/appi.neuropsych.12070180
-
+____
 # CDT Errors
 Rouleau [^1] categorized five types of errors in addition to size of the clock: 1) graphic difficulties; 2) stimulus-bound response; 3) conceptual deficit; 4) spatial and/or planning deficit; and 5) perseveration.
 ## Size

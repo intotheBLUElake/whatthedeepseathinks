@@ -4,9 +4,12 @@ draft:
 tags:
   - "#metodology"
   - test
+  - paper
+  - incomplete
 data and time:
 ---
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8156826/
+____
 
 |               | Disease                                | Health                                     |                                                       |
 | ------------- | -------------------------------------- | ------------------------------------------ | ----------------------------------------------------- |
